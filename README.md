@@ -1,7 +1,7 @@
 # Energy-based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons
 
 The repository contains supplementary material for the paper:
-- Th. Apostolakis, M. A. Makridis, A. Kouvelas, and K. Ampountolas, Energy-based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons, **IEEE Transactions on Intelligent Transportation Systems**, under review, 2023.
+- Th. Apostolakis, M. A. Makridis, A. Kouvelas, and K. Ampountolas, Energy-based assessment and driving behavior of ACC systems and humans inside platoons, **IEEE Transactions on Intelligent Transportation Systems**, Accepted, 2023. DOI: [10.1109/TITS.2023.3285296](https://www.doi.org/10.1109/TITS.2023.3285296).
 
 This work assesses the energy footprints of Adaptive Cruise Control (ACC) systems and human drivers by four state-of-the-art energy demand and fuel consumption models, namely VT-micro, VSP, and ARRB. 
 
@@ -12,4 +12,4 @@ The study expands to a broader critical discussion around the energy footprint o
 The repository contains the AstaZero data set as well as a Jupyter notebook in Python that implements the four energy demand and fuel consumption models. Note that all data sets used in the paper are freely available via [OpenACC](http://data.europa.eu/89h/9702c950-c80f-4d2f-982f-44d06ea0009f).
 
 ## How to cite the paper
-- Th. Apostolakis, M. A. Makridis, A. Kouvelas, and K. Ampountolas, Energy-based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons, **IEEE Transactions on Intelligent Transportation Systems**, under review, 2023. 
+- Th. Apostolakis, M. A. Makridis, A. Kouvelas, and K. Ampountolas, Energy-based assessment and driving behavior of ACC systems and humans inside platoons, **IEEE Transactions on Intelligent Transportation Systems**, Accepted, 2023. DOI: [10.1109/TITS.2023.3285296](https://www.doi.org/10.1109/TITS.2023.3285296).
